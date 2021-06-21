@@ -1,25 +1,37 @@
 * {
     margin: auto;
 }
+.icon {
+    text-align: center;
+}
 .title {
     text-align: center;
 }
-
 .lead {
     text-align: center;
 }
 #video-groups {
-    width: 800px;
+    width: 100%;
+    max-width: 800px;
+    height: auto;
+    text-align: center;
 }
 .video {
-    width: 800px;
+    width: 100%;
+    max-width: 800px;
+    height: auto;
+    text-align: center;
 }
 .video-player {
-    width: 800px;
-    height: 500px;
+    width: 100%;
+    max-width: 800px;
+    height: auto;
+    text-align: center;
 }
 .input-values {
-    width: 800px;
+    width: 100%;
+    max-width: 800px;
+    height: auto;
 }
 .mybtn {
     text-align: center;
