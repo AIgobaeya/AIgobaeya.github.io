@@ -5,6 +5,9 @@
     text-align: center;
 }
 .title {
+    width: 100%;
+    max-width: 800px;
+    height: auto;
     text-align: center;
 }
 .lead {
